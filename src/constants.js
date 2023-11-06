@@ -145,11 +145,7 @@ export const MARKERS = [
           {
             title:"STORAGE FREE FOR 60 DAYS",
             value:
-              "Master of MV(Vessel Name) GLOBAL SPARES LOGISTICS Calle Mar Cantabrico vs ,C. Oceano Pacifico, Pol.Ind.Palmones II 11379 Los Barrios, Cádiz VAT: B87474904 PIC: Kamil Dominik Phone: + 34 95632 0293 Mobile: +34 68092 8075 Email: operations@onelooplogistics.com",
-          },
-          {
-            value:
-              "***Kindly note that the above address is for all shipment coming to Malaga, Gibraltar, Algeciras, Sevilla, Tangier MED (Marruecos), Cadiz, Huelva, Almeria",
+              "Master of MV(Vessel Name) GLOBAL SPARES LOGISTICS Calle Mar Cantabrico vs ,C. Oceano Pacifico, Pol.Ind.Palmones II 11379 Los Barrios, Cádiz VAT: B87474904 PIC: Kamil Dominik Phone: + 34 95632 0293 Mobile: +34 68092 8075 Email: operations@onelooplogistics.com ***Kindly note that the above address is for all shipment coming to Malaga, Gibraltar, Algeciras, Sevilla, Tangier MED (Marruecos), Cadiz, Huelva, Almeria",
           }
         ],
       },
@@ -233,7 +229,7 @@ export const MARKERS = [
         description: [
           {
             value:
-              "TO: MASTER OF M/V (Vessel Name) CO/- ALTUS LOGISTICS VIA AIR MENZIES INTL BLDG 2,PORT AIR INDUSTRIAL ESTATE 1A HALE STREET, BOTANY NSW 2019 TEL: +61 2 8335 2100 philip.davey@altuslogistics.com",
+              "TO: MASTER OF M/V (Vessel Name) MV Vessel Name CO/- ALTUS LOGISTICS VIA AIR MENZIES INTL 3A CORBETT COURT, EXPORT PARK ADELAIDE AIRPORT SA 5950 TEL: +61 8 8355 9505 philip.davey@altuslogistics.com",
           }
         ],
       },
