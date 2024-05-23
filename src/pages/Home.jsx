@@ -29,15 +29,11 @@ const Home = () => {
             (marker) => marker.place.split(" ")[0] === selectedOption.value
           );
         setOption(data)
-        // mapRef.current._lastCenter.lat = data[0].lat
-        // mapRef.current._lastCenter.lng = data[0].lon
-        // mapRef.current.setZoom(8)
+        
     }
     else{
         setOption(null)
-        // mapRef.current._lastCenter.lat = position[0]
-        // mapRef.current._lastCenter.lng = position[1]
-        // mapRef.current.setZoom(3)
+        
     }
 
   };
