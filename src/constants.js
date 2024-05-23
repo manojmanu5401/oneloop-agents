@@ -46,7 +46,7 @@ export const MARKERS = [
             "Email: shipspares@btslogistics.com \n Master of MV (Vessel Name) ONELOOP LOGISTICS C/O Paul Weidlich GmbH Kolumbusstrasse 16 D-22113 Hamburg German \n +31 (0)6 8123 9412 \n ams.oneloop@loyalcargoservices.com; operations@onelooplogistics.com",
         },
         {
-          title: "VENDOR OPTIONS 2: HAMBURG Express",
+          title: "VENDOR OPTIONS 2: HAMBURG EXPRESS",
           value: "Email: thorsten.pulss@hamburg-express.de"
         }
       ],
@@ -150,7 +150,7 @@ export const MARKERS = [
         lon: -81.1308434,
         description: [
           {
-            title:"VENDOR: CB fenton",
+            title:"VENDOR: CB FENTON",
             value:
               "Master of MV (Vessel Name) C/O C. B. Fenton & Co. S. A./ULOG SHIP SPARE IN TRANSIT International Business Park, Las Brujas Ave., Bldg 3845, Suite 513, Panama Pacifico, Arraijan Rep. of Panama RUC 2392-193-41247 DV 07 PIC: Mariam Gutiérrez \n Mobile: (507) 6888-5357 \n Email: logistics@cbfenton.com,  mariam.gutierrez@cbfenton.com,  roxana.atencio@cbfenton.com",
           }
@@ -163,12 +163,12 @@ export const MARKERS = [
         lon: -95.3676974,
         description: [
           {
-            title:"VENDOR: Trans-IT For Air freight / Sea freight",
+            title:"VENDOR: TRANS-IT \n For Air freight / Sea freight",
             value:
               "The Master Vessel name C/O Trans-it USA LLC 1095 Evergreen Circle, Suite 200 The Woodlands, TX 77380 \n(713) 377 2563 \n Email: operations@onelooplogistics.com, ops.us@transit-dk.com.",
           },
           {
-            title:"VENDOR: Trans-IT For Courier Shipment",
+            title:"VENDOR: TRANS-IT \n For Courier Shipment",
             value:
               "Trans-it USA LLC 602 Austin Ave Pasadena, TX 77502 \n (713) 377 2563 \n Eamil: ops.us@transit-dk.com, operations@onelooplogistics.com.",
           }
@@ -211,7 +211,7 @@ export const MARKERS = [
         lon: 30.8025,
         description: [
           {
-            title:"VENDOR: Goldenocean",
+            title:"VENDOR: GOLDENOCEAN",
             value:
               "Email: parcels@goldenoceanmarine.com",
           }
@@ -224,7 +224,7 @@ export const MARKERS = [
         lon: 80.7718,
         description: [
           {
-            title: "VENDOR: Alpha Global Ship Services",
+            title: "VENDOR: ALPHA GLOBAL SHIP SERVICES",
             value:
               "Email: thusitha@alphaglobalship.com",
           }
@@ -263,7 +263,7 @@ export const MARKERS = [
         lon: -120.740135,
         description: [
           {
-            title: "VENDOR: Trans IT",
+            title: "VENDOR: TRANS-IT",
             value:
               "Email: guillermo@transit-dk.com",
           }
@@ -276,7 +276,7 @@ export const MARKERS = [
         lon: 21.9877132,
         description: [
           {
-            title: "VENDOR: Goldencargo",
+            title: "VENDOR: GOLDENCARGO",
             value:
               "Email: psarantis@goldencargo.gr",
           }
@@ -289,7 +289,7 @@ export const MARKERS = [
         lon: -53.2,
         description: [
           {
-            title: "VENDOR: Shipping Protection",
+            title: "VENDOR: SHIPPING PROTECTION",
             value:
               "Email: ops-vix@shipping-protection.com, ops-slz@shipping-protection.com",
           }
