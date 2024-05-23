@@ -22,6 +22,7 @@ const Home = () => {
       label: marker.place.split(" ")[0].toLowerCase(),
     };
   });
+  countries.sort((a,b) => a.value.localeCompare(b.value));
   const handleChange = (selectedOption) => {
     if(selectedOption!==null){
         const data = MARKERS.filter(
@@ -84,9 +85,9 @@ const Home = () => {
                       return (
                         <>
                           {desc.title && (
-                            <p className="text-md font-bold">{desc.title}</p>
+                            <p className="text-md font-bold whitespace-pre-line">{desc.title}</p>
                           )}
-                          <p>{desc.value}</p>
+                          <p className= "whitespace-pre-line">{desc.value}</p>
                         </>
                       );
                     })}
