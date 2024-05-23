@@ -46,7 +46,7 @@ const Home = () => {
     <>
       <section className="flex flex-col items-center space-y-8 mx-auto max-w-8xl px-2 sm:px-6 lg:px-8 my-10">
         <div>
-          <h1 className="text-2xl font-bold">OneLoop Agents Details</h1>
+          <h1 className="text-2xl font-bold">ONELOOP AGENT DETAILS</h1>
         </div>
         <div className="select">
           <Select
