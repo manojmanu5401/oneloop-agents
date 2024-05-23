@@ -43,7 +43,7 @@ export const MARKERS = [
         {
           title: "VENDOR OPTION 1: BTS GLOBAL",
           value:
-            "Master of MV (Vessel Name) ONELOOP LOGISTICS C/O Paul Weidlich GmbH Kolumbusstrasse 16 D-22113 Hamburg German \n +31 (0)6 8123 9412 \n ams.oneloop@loyalcargoservices.com; operations@onelooplogistics.com",
+            "Email: shipspares@btslogistics.com \n Master of MV (Vessel Name) ONELOOP LOGISTICS C/O Paul Weidlich GmbH Kolumbusstrasse 16 D-22113 Hamburg German \n +31 (0)6 8123 9412 \n ams.oneloop@loyalcargoservices.com; operations@onelooplogistics.com",
         },
         {
           title: "VENDOR OPTIONS 2: HAMBURG Express",
@@ -60,7 +60,7 @@ export const MARKERS = [
         {
           title: "VENDOR OPTION 1: BTS GLOBAL",
           value:
-            "Master of MV (Vessel Name) ONC/O INTER-SCAN SEA & AIR A/S ONELOOP LOGISTICS PTE. LTD, KIRSTINEHØJ 8 2770 KASTRUP DENMARK \n +31 (0)6 8123 9412 \n ams.oneloop@loyalcargoservices.com, operations@onelooplogistics.com",
+            "Email: shipspares@btslogistics.com \n Master of MV (Vessel Name) ONC/O INTER-SCAN SEA & AIR A/S ONELOOP LOGISTICS PTE. LTD, KIRSTINEHØJ 8 2770 KASTRUP DENMARK \n +31 (0)6 8123 9412 \n ams.oneloop@loyalcargoservices.com",
         },
         {
           title: "VENDOR OPTION 2: WRIST",
@@ -137,8 +137,9 @@ export const MARKERS = [
         lon: -90.0782127,
         description: [
           {
+            title:"VENDOR: TRANS-IT",
             value:
-              "TRANS-IT \n Master of MV (Vessel Name) C/o Trans-it USA 1700 4th St Harvey, LA 70058 \n M: +1 (713) 377 2563 \n Email: operations@onelooplogistics.com PIC: Guillermo Vivas \n M: +1 (713) 377 2563 \n Email: operations@onelooplogistics.com",
+              "Master of MV (Vessel Name) C/o Trans-it USA 1700 4th St Harvey, LA 70058 \n M: +1 (713) 377 2563 \n Email: operations@onelooplogistics.com PIC: Guillermo Vivas \n M: +1 (713) 377 2563 \n Email: operations@onelooplogistics.com",
           }
         ],
       },
@@ -149,7 +150,7 @@ export const MARKERS = [
         lon: -81.1308434,
         description: [
           {
-            title:"CB fenton",
+            title:"VENDOR: CB fenton",
             value:
               "Master of MV (Vessel Name) C/O C. B. Fenton & Co. S. A./ULOG SHIP SPARE IN TRANSIT International Business Park, Las Brujas Ave., Bldg 3845, Suite 513, Panama Pacifico, Arraijan Rep. of Panama RUC 2392-193-41247 DV 07 PIC: Mariam Gutiérrez \n Mobile: (507) 6888-5357 \n Email: logistics@cbfenton.com,  mariam.gutierrez@cbfenton.com,  roxana.atencio@cbfenton.com",
           }
@@ -162,12 +163,12 @@ export const MARKERS = [
         lon: -95.3676974,
         description: [
           {
-            title:"For Air freight / Sea freight",
+            title:"VENDOR: Trans-IT For Air freight / Sea freight",
             value:
               "The Master Vessel name C/O Trans-it USA LLC 1095 Evergreen Circle, Suite 200 The Woodlands, TX 77380 \n(713) 377 2563 \n Email: operations@onelooplogistics.com, ops.us@transit-dk.com.",
           },
           {
-            title:"For Courier Shipment",
+            title:"VENDOR: Trans-IT For Courier Shipment",
             value:
               "Trans-it USA LLC 602 Austin Ave Pasadena, TX 77502 \n (713) 377 2563 \n Eamil: ops.us@transit-dk.com, operations@onelooplogistics.com.",
           }
@@ -180,21 +181,10 @@ export const MARKERS = [
         lon: -5.4473991,
         description: [
           {
-            title:"VENDOR OPTION 1: LOYAL",
+            title:"WAREHOUSE ADDRESS",
             value:
               "Master of MV(Vessel Name) GLOBAL SPARES LOGISTICS Calle Mar Cantabrico vs ,C. Oceano Pacifico, Pol.Ind.Palmones II 11379 Los Barrios, Cádiz VAT: B87474904 PIC: Kamil Dominik \n Phone: + 34 95632 0293 \n Mobile: +34 68092 8075 \n Email: operations@onelooplogistics.com \n\n ***Kindly note that the above address is for all shipment coming to Malaga, Gibraltar, Algeciras,Sevilla, Tangier MED (Marruecos), Cadiz, Huelva, Almeria",
           },
-          {
-            title:"VENDOR OPTION 2: WIRST",
-            value:
-              "Master of MV(Vessel Name) GLOBAL SPARES LOGISTICS Calle Mar Cantabrico vs ,C. Oceano Pacifico, Pol.Ind.Palmones II 11379 Los Barrios, Cádiz VAT: B87474904 PIC: Kamil Dominik \n Phone: + 34 95632 0293 \n Mobile: +34 68092 8075 \n Email: operations@onelooplogistics.com \n\n ***Kindly note that the above address is for all shipment coming to Malaga, Gibraltar, Algeciras,Sevilla, Tangier MED (Marruecos), Cadiz, Huelva, Almeria",
-          },
-          {
-            title:"VENDOR OPTION 3: BTS",
-            value:
-              "Master of MV(Vessel Name) GLOBAL SPARES LOGISTICS Calle Mar Cantabrico vs ,C. Oceano Pacifico, Pol.Ind.Palmones II 11379 Los Barrios, Cádiz VAT: B87474904 PIC: Kamil Dominik \n Phone: + 34 95632 0293 \n Mobile: +34 68092 8075 \n Email: operations@onelooplogistics.com \n\n ***Kindly note that the above address is for all shipment coming to Malaga, Gibraltar, Algeciras,Sevilla, Tangier MED (Marruecos), Cadiz, Huelva, Almeria",
-          }
-          
         ],
       },
     {
@@ -221,7 +211,7 @@ export const MARKERS = [
         lon: 30.8025,
         description: [
           {
-            title:"VENDOR Goldenocean",
+            title:"VENDOR: Goldenocean",
             value:
               "Email: parcels@goldenoceanmarine.com",
           }
@@ -234,7 +224,7 @@ export const MARKERS = [
         lon: 80.7718,
         description: [
           {
-            title: "VENDOR Alpha Global Ship Services",
+            title: "VENDOR: Alpha Global Ship Services",
             value:
               "Email: thusitha@alphaglobalship.com",
           }
@@ -247,7 +237,7 @@ export const MARKERS = [
         lon: 108.2772,
         description: [
           {
-            title:"VENDOR THUAN PHONG",
+            title:"VENDOR: THUAN PHONG",
             value:
               "Email: tp-shiprepaid@tpmaritime.com",
           }
@@ -260,7 +250,7 @@ export const MARKERS = [
         lon: 120.9605,
         description: [
           {
-            title:"VENDOR FAMOUS",
+            title:"VENDOR: FAMOUS",
             value:
               "Email: mops@famouship.com.tw",
           }
@@ -273,7 +263,7 @@ export const MARKERS = [
         lon: -120.740135,
         description: [
           {
-            title: "VENDOR Trans IT",
+            title: "VENDOR: Trans IT",
             value:
               "Email: guillermo@transit-dk.com",
           }
@@ -286,7 +276,7 @@ export const MARKERS = [
         lon: 21.9877132,
         description: [
           {
-            title: "VENDOR Goldencargo",
+            title: "VENDOR: Goldencargo",
             value:
               "Email: psarantis@goldencargo.gr",
           }
@@ -299,7 +289,7 @@ export const MARKERS = [
         lon: -53.2,
         description: [
           {
-            title: "VENDOR Shipping Protection",
+            title: "VENDOR: Shipping Protection",
             value:
               "Email: ops-vix@shipping-protection.com, ops-slz@shipping-protection.com",
           }
